@@ -1,4 +1,4 @@
-<img src="Scan2CAD/app/assets/vogel-orange.svg" width="64" alt="Amon P. Lanz’s bird logo">
+<img src="Vogel_Orange.svg" width="64" alt="Amon P. Lanz’s bird logo">
 
 # Scan2CAD
 
@@ -6,7 +6,7 @@ Turn 3D scans (STL / OBJ / PLY) into **closed STEP solids with design intent**. 
 
 **Version 1.0.1 · Windows (Python) · Apache-2.0 · Amon P. Lanz**
 
-**[Download Scan2CAD_V1.0.1.zip](https://raw.githubusercontent.com/AmLanz/Scan2CAD/main/Scan2CAD_V1.0.1.zip)** · [Source code](Scan2CAD/) · [Report an issue](https://github.com/AmLanz/Scan2CAD/issues) · [Deutsch ↓](#deutsch)
+**[Download Scan2CAD_V1.0.1.zip](https://raw.githubusercontent.com/AmLanz/Scan2CAD/main/Scan2CAD_V1.0.1.zip)** · [Source code](Scan2CAD_V1.0.1/Scan2CAD/) · [Report an issue](https://github.com/AmLanz/Scan2CAD/issues) · [Deutsch ↓](#deutsch)
 
 <!-- Screenshot: ![Scan2CAD](screenshot.png) -->
 
@@ -52,11 +52,11 @@ A second example with an open base, as it comes off a turntable scanner, is in `
 
 ## Documentation
 
-The detailed documentation (in German) is in [Scan2CAD/README.md](Scan2CAD/README.md). It covers all pages and keys, the autopilot steps, the hole tool, how the closed STEP is built, the feature ↔ STEP check and the tests.
+The detailed documentation (in German) is in [Scan2CAD_V1.0.1/Scan2CAD/README.md](Scan2CAD_V1.0.1/Scan2CAD/README.md). It covers all pages and keys, the autopilot steps, the hole tool, how the closed STEP is built, the feature ↔ STEP check and the tests.
 
 ## License and citation
 
-Copyright © 2026 **Amon P. Lanz**. Distributed under the **[Apache License 2.0](Scan2CAD/LICENSE)**; see [NOTICE](Scan2CAD/NOTICE).
+Copyright © 2026 **Amon P. Lanz**. Distributed under the **[Apache License 2.0](LICENSE)**; see [NOTICE](Scan2CAD_V1.0.1/Scan2CAD/NOTICE).
 
 Much of the code was written with **Claude Opus 5.5** (Anthropic). The idea, scans, test parts, critique and every decision on what is good enough came from Amon P. Lanz.
 
@@ -65,7 +65,7 @@ Citation is appreciated and optional:
 > Amon P. Lanz (2026). *Scan2CAD: Guided Reverse Engineering of 3D Scans to STEP* (version 1.0.1). Computer software.
 > https://github.com/AmLanz/Scan2CAD
 
-Use **About / Cite** (top-right corner of the app) to copy a citation or BibTeX entry. [CITATION.cff](Scan2CAD/CITATION.cff) and [CITATION.bib](Scan2CAD/CITATION.bib) are included.
+Use **About / Cite** (top-right corner of the app) to copy a citation or BibTeX entry. [CITATION.cff](Scan2CAD_V1.0.1/Scan2CAD/CITATION.cff) and [CITATION.bib](Scan2CAD_V1.0.1/Scan2CAD/CITATION.bib) are included.
 
 ---
 
@@ -77,7 +77,7 @@ Macht aus 3D-Scans (STL / OBJ / PLY) **geschlossene STEP-Volumenkörper mit Kons
 
 **Version 1.0.1 · Windows (Python) · Apache-2.0 · Amon P. Lanz**
 
-**[Scan2CAD_V1.0.1.zip herunterladen](https://raw.githubusercontent.com/AmLanz/Scan2CAD/main/Scan2CAD_V1.0.1.zip)** · [Quellcode](Scan2CAD/) · [Fehler melden](https://github.com/AmLanz/Scan2CAD/issues)
+**[Scan2CAD_V1.0.1.zip herunterladen](https://raw.githubusercontent.com/AmLanz/Scan2CAD/main/Scan2CAD_V1.0.1.zip)** · [Quellcode](Scan2CAD_V1.0.1/Scan2CAD/) · [Fehler melden](https://github.com/AmLanz/Scan2CAD/issues)
 
 ## Was es kann
 
@@ -121,11 +121,11 @@ Ein zweites Beispiel mit offenem Boden, wie vom Drehteller-Scanner, liegt in `be
 
 ## Dokumentation
 
-Die ausführliche Dokumentation steht in [Scan2CAD/README.md](Scan2CAD/README.md): alle Seiten und Tasten, die Schritte von „Auf gut Glück“, das Bohrungswerkzeug, wie der geschlossene STEP entsteht, der Abgleich Features ↔ STEP und die Tests.
+Die ausführliche Dokumentation steht in [Scan2CAD_V1.0.1/Scan2CAD/README.md](Scan2CAD_V1.0.1/Scan2CAD/README.md): alle Seiten und Tasten, die Schritte von „Auf gut Glück“, das Bohrungswerkzeug, wie der geschlossene STEP entsteht, der Abgleich Features ↔ STEP und die Tests.
 
 ## Lizenz und Zitieren
 
-Copyright © 2026 **Amon P. Lanz**. Lizenz: **[Apache License 2.0](Scan2CAD/LICENSE)**, siehe [NOTICE](Scan2CAD/NOTICE).
+Copyright © 2026 **Amon P. Lanz**. Lizenz: **[Apache License 2.0](LICENSE)**, siehe [NOTICE](Scan2CAD_V1.0.1/Scan2CAD/NOTICE).
 
 Ein großer Teil des Codes wurde mit **Claude Opus 5.5** (Anthropic) geschrieben. Idee, Scans, Testteile, Kritik und jede Entscheidung, was gut genug ist, kamen von Amon P. Lanz.
 
@@ -134,4 +134,4 @@ Zitieren ist freiwillig und willkommen:
 > Amon P. Lanz (2026). *Scan2CAD: Guided Reverse Engineering of 3D Scans to STEP* (Version 1.0.1). Computer software.
 > https://github.com/AmLanz/Scan2CAD
 
-Im Programm kopiert **Über / Zitieren** (rechte obere Ecke) das Zitat oder einen BibTeX-Eintrag. [CITATION.cff](Scan2CAD/CITATION.cff) und [CITATION.bib](Scan2CAD/CITATION.bib) liegen bei.
+Im Programm kopiert **Über / Zitieren** (rechte obere Ecke) das Zitat oder einen BibTeX-Eintrag. [CITATION.cff](Scan2CAD_V1.0.1/Scan2CAD/CITATION.cff) und [CITATION.bib](Scan2CAD_V1.0.1/Scan2CAD/CITATION.bib) liegen bei.
