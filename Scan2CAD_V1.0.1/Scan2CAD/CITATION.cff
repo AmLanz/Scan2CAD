@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If Scan2CAD contributes to your work, a software citation is appreciated. Citation is optional."
+type: software
+title: "Scan2CAD: Guided Reverse Engineering of 3D Scans to STEP"
+authors:
+  - family-names: "Lanz"
+    given-names: "Amon P."
+version: "1.0.1"
+date-released: 2026-10-15
+license: Apache-2.0
+repository-code: "https://github.com/AmLanz/Scan2CAD"
+url: "https://github.com/AmLanz/Scan2CAD"
+abstract: "Python desktop tool that turns 3D scans (STL/OBJ/PLY) into closed STEP solids through guided reverse engineering: feature fitting, holes and turned profiles, symmetries and constraints, and an exact scan-topology B-rep with a feature-to-STEP check. Developed with Claude Opus 5.5 (Anthropic)."
+keywords:
+  - reverse engineering
+  - 3D scanning
+  - STEP
+  - CAD
+  - OpenCASCADE
+  - Python

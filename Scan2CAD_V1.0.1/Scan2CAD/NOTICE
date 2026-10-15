@@ -1,0 +1,18 @@
+Scan2CAD
+Copyright 2026 Amon P. Lanz
+
+Licensed under the Apache License, Version 2.0.
+See LICENSE for the full license text.
+
+Much of the source code was written with Claude Opus 5.5 (Anthropic) under the
+direction, testing and review of Amon P. Lanz.
+
+The bird logo artwork was provided by Amon P. Lanz.
+
+Scan2CAD builds on open-source libraries, each under its own license, among them
+OpenCASCADE via OCP, VTK, PyVista, PySide6/Qt, NumPy and SciPy.
+
+The software is provided "AS IS", without warranties or conditions of any
+kind, as set out in the Apache License 2.0. The license's disclaimer of
+warranty and limitation of liability apply, subject to applicable law.
+Check dimensions independently before manufacturing anything from a scan.
